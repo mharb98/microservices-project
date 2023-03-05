@@ -1,0 +1,6 @@
+[submodule "users-service"]
+	path = users-service
+	url = git@github.com:mharb98/users-service.git
+[submodule "organizations-service"]
+	path = organizations-service
+	url = git@github.com:mharb98/organizations-service.git
